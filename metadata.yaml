@@ -1,0 +1,31 @@
+_repo: The-Camp-Fire-Girls-Amid-the-Snows_45657
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45657-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vandercook, Margaret
+    birthdate: 1876
+    gutenberg_agent_id: '2838'
+    url: http://www.gutenberg.org/2009/agents/2838
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Vandercook
+description: ''
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Young women -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+title: The Camp Fire Girls Amid the Snows
+url: http://www.gutenberg.org/ebooks/45657
